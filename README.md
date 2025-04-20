@@ -21,4 +21,4 @@
 
 ...
 
-16. 8Bh - CRC (XOR всех байт пакета)
+16. 8Bh - CRC-8/MAXIM (Dallas)???
